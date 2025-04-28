@@ -49,7 +49,7 @@ Medical imaging datasets, especially for conditions like pneumonia, often suffer
 
 ## 🎞️ Training Progress
 
-![DCGAN Training Progress](./dcgan_training_progress.gif)
+![DCGAN Training Progress](./training_progress.gif)
 
 ---
 
