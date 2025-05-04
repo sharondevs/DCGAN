@@ -63,8 +63,8 @@ Medical imaging datasets, especially for conditions like pneumonia, often suffer
 ## 📬 Contact
 
 **Sharon Dev Saseendran**  
-Email: [your-email@example.com]  
-LinkedIn: [your-linkedin-profile]  
+Email: [sharon.devs99@gmail.com]  
+LinkedIn: [https://www.linkedin.com/in/sharon-dev-s-8897a659/]  
 
 ---
 
